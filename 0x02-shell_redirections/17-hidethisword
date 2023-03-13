@@ -1,3 +1,2 @@
-#!/bin/bash
+#!/bind
 egrep -v 'bin' /etc/passwd
-
